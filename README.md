@@ -4,9 +4,9 @@
 
 Building digital solutions from front-end to back-end: Full Stack Developer at your service
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/scJmHcoziLYAAAAj/kelvin-working-from-home.gif">
-
 Skills: REACT / NodeJS / Typescript / JS / HTML / CSS
+
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/scJmHcoziLYAAAAj/kelvin-working-from-home.gif">
 
 - 🌱 I’m currently learning React Native⚛️ 
 - 👯 I’m looking to collaborate on Web and Android apps 
