@@ -6,11 +6,11 @@ Building digital solutions from front-end to back-end: Full Stack Developer at y
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/scJmHcoziLYAAAAj/kelvin-working-from-home.gif">
 
-Skills: REACT / Typescript / JS / HTML / CSS
+Skills: REACT / NodeJS / Typescript / JS / HTML / CSS
 
 - 🌱 I’m currently learning React Native⚛️ 
 - 👯 I’m looking to collaborate on Web and Android apps 
-- 💬 Ask me about REACT / Typescript / JS 
+- 💬 Ask me about REACT / NodeJS / Typescript / JS 
 - 📫 How to reach me: mayurphumatiya13@gmail.com 
 - ⚡ Fun fact: The first computer bug was actually a real bug 
 
