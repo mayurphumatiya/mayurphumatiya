@@ -1,16 +1,22 @@
-### Hi there 👋
+![](https://media.discordapp.net/attachments/1055034290360029214/1084436681668706314/WhatsApp_Image_2023-01-13_at_17.32.30.jpeg?width=1440&height=360)
 
-<!--
-**mayurphumatiya/mayurphumatiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I 'm Mayur Phumatiya
 
-Here are some ideas to get you started:
+Building digital solutions from front-end to back-end: Full Stack Developer at your service
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/scJmHcoziLYAAAAj/kelvin-working-from-home.gif">
+
+Skills: REACT / Typescript / JS / HTML / CSS
+
+- 🌱 I’m currently learning React Native⚛️ 
+- 👯 I’m looking to collaborate on Web and Android apps 
+- 💬 Ask me about REACT / Typescript / JS 
+- 📫 How to reach me: mayurphumatiya13@gmail.com 
+- ⚡ Fun fact: The first computer bug was actually a real bug 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mayurphumatiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mayur-phumatiya-627401227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mayurphumatiya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/phumatiya_mayur)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurphumatiya&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/mayurphumatiya)  
