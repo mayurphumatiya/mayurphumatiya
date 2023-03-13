@@ -4,10 +4,11 @@
 
 ### Building digital solutions from front-end to back-end: Full Stack Developer at your service
 
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/scJmHcoziLYAAAAj/kelvin-working-from-home.gif">
+
 ## 💫 About Me:
 🌱 I’m currently learning React Native⚛️<br>👯 I’m looking to collaborate on Web and Android apps<br>💬 Ask me about REACT / NodeJS / Typescript / JS<br>📫 How to reach me: mayurphumatiya13@gmail.com<br>⚡ Fun fact: The first computer bug was actually a real bug
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/scJmHcoziLYAAAAj/kelvin-working-from-home.gif">
 
 ## 💻 Tech Stack:
 <div align="left">
