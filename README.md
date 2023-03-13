@@ -40,6 +40,7 @@
 ###
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mayurphumatiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=mayurphumatiya&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurphumatiya&theme=tokyonight&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/mayurphumatiya)  
