@@ -43,7 +43,6 @@
 ## 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=mayurphumatiya&show_icons=true&theme=radical" />
-  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurphumatiya&theme=dark&hide_border=false" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurphumatiya&theme=radical&layout=compact" />
  
 </div>
