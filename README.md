@@ -47,5 +47,4 @@
 
 
 
-###
-![Profile views](https://gpvc.arturio.dev/mayurphumatiya)  
+###![Profile views](https://gpvc.arturio.dev/mayurphumatiya)  
