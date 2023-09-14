@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/scJmHcoziLYAAAAj/kelvin-working-from-home.gif">
 
 ## 💫 About Me:
-🌱 I’m currently learning Web3<br>👯 I’m looking to collaborate on Web and Android apps<br>💬 Ask me about REACT / NodeJS / Typescript / NEXT JS<br>📫 How to reach me: mayurphumatiya13@gmail.com<br>⚡ Fun fact: The first computer bug was actually a real bug
+🌱 I’m currently learning Backend<br>👯 I’m looking to collaborate on Web and Android apps<br>💬 Ask me about REACT / NodeJS / Typescript / NEXT JS<br>📫 How to reach me: mayurphumatiya13@gmail.com<br>
 
 
 ## 💻 Tech Stack:
@@ -28,16 +28,4 @@
   <a href="https://twitter.com/phumatiya_mayur" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.gg/TWbgvUsm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/mayurphumatiya/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
-
-
-## 📊 GitHub Stats:
-  
-![mayurphumatiya's Stats](https://github-readme-stats.vercel.app/api?username=mayurphumatiya&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![mayurphumatiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurphumatiya&theme=radical&show_icons=true&hide_border=true&layout=compact)
